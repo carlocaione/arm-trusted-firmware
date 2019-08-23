@@ -13,7 +13,7 @@
 #include <common/bl_common.h>
 #include <common/debug.h>
 #include <common/ep_info.h>
-#include <drivers/meson/meson_console.h>
+#include <drivers/amlogic/meson_console.h>
 #include <lib/mmio.h>
 #include <lib/xlat_tables/xlat_tables_v2.h>
 

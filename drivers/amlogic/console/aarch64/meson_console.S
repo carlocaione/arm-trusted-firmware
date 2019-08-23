@@ -7,7 +7,7 @@
 #include <asm_macros.S>
 #include <assert_macros.S>
 #include <console_macros.S>
-#include <drivers/meson/meson_console.h>
+#include <drivers/amlogic/meson_console.h>
 
 	.globl console_meson_register
 	.globl console_meson_init
