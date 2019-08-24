@@ -10,7 +10,7 @@
 #include <common/runtime_svc.h>
 #include <stdint.h>
 
-#include "gxl_private.h"
+#include "aml_private.h"
 
 /*******************************************************************************
  * This function is responsible for handling all SiP calls

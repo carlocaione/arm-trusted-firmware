@@ -6,7 +6,7 @@
 
 #include <stdint.h>
 
-#include "gxbb_private.h"
+#include "aml_private.h"
 
 #define EFUSE_BASE	0x140
 #define EFUSE_SIZE	0xC0

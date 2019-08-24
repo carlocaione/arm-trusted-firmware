@@ -6,7 +6,7 @@
 
 #include <stdint.h>
 
-#include "gxl_private.h"
+#include "aml_private.h"
 
 static int32_t modules_initialized = -1;
 

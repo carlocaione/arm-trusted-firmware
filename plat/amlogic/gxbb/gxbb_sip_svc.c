@@ -12,7 +12,7 @@
 #include <common/runtime_svc.h>
 #include <lib/mmio.h>
 
-#include "gxbb_private.h"
+#include "aml_private.h"
 
 /*******************************************************************************
  * This function is responsible for handling all SiP calls

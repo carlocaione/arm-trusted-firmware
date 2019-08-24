@@ -8,7 +8,7 @@
 #include <platform_def.h>
 #include <stdint.h>
 
-#include "gxl_private.h"
+#include "aml_private.h"
 
 /* The power domain tree descriptor */
 static unsigned char power_domain_tree_desc[] = {
