@@ -11,7 +11,7 @@
 #include <string.h>
 #include <crypto/sha_dma.h>
 
-#include "gxl_private.h"
+#include "aml_private.h"
 
 #define SIZE_SHIFT	20
 #define SIZE_MASK	0x1FF
